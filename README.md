@@ -2,7 +2,7 @@
 
 # Minimum System Requirements
 
- - Debian/Ubuntu 20.04 (Recommended)
+ - Debian/Ubuntu 20.04 or higher (Recommended)
  - 4 GB Ram
  - 30GB Available Storage
  - Minimum 2 CPU processors
