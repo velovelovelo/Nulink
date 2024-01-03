@@ -16,7 +16,6 @@
 ### Update Depencies
 ```
 sudo apt update && sudo apt upgrade -y
-
 ```
 
 ```
