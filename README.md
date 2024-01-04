@@ -145,7 +145,7 @@ Generated configuration file at default filepath /home/circleci/.local/share/nul
 Dont forget to backup your Seed!
 
 ### Run the worker
-Before running the worker make sure you have tBNB,you can tBNB in here(https://www.bnbchain.org/en/testnet-faucet)
+Before running the worker make sure you have tBNB,you can get tBNB in here(https://www.bnbchain.org/en/testnet-faucet)
 
 ### Run Worker
 ```
@@ -183,7 +183,7 @@ remember to use different wallet, dont use your worker wallet!
 ### Stake NLK
 Request tNLK and tBNB on the top side
 
-- After receiving yur tNLK and tBNB go to the Staking Page
+- After receiving your tNLK and tBNB go to the Staking Page
 And stake some NLK (Minimuum stake of 1 NLK) and Approve transaction.
 
 - If its first time you will be asked to approve token spent first.
