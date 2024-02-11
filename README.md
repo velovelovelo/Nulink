@@ -31,7 +31,10 @@ ufw allow 9151
 ufw enable
 ```
 
+
 ### Install docker https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
+
+
 
 ### Setup Password Variable
 ```
